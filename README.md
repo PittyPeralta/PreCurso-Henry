@@ -1,2 +1,1 @@
-# PreCurso-Henry
-modulo 2 pre curso
+este proyecto es como clonar un repositorio desde mi github a mi escritorio
